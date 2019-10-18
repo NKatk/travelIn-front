@@ -1,0 +1,36 @@
+.sliderTP{
+    margin-top: 85px;
+    text-align: center;
+    min-width: 380px;
+}
+
+.sliderTitleTP{
+    margin-bottom: 52px;
+    text-align: center;
+    font-family: "Playfair Display";
+    font-size: 32px;
+    font-weight: 600;
+    margin-top: 70px;
+    color: #626262;
+}
+
+.sliderBlockTP{
+    margin: 0 12.5%;
+}
+
+.imageSliderTP{
+    width: 100%;
+}
+.slick-slide>div {
+    padding: 0 1%;
+}
+
+.slick-prev:before {
+    color: #f0f0f0 !important;
+    font-size: 35px!important;
+    margin-left: -15px!important;
+}
+.slick-next:before {
+    color: #f0f0f0!important;
+    font-size: 35px!important;
+}

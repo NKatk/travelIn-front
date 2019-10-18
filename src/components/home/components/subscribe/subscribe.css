@@ -1,0 +1,49 @@
+.subscribeBlock{
+    max-width: 100%;
+    min-width: 380px;
+    height: 287px;
+    background-color: #f0f0f0;
+    text-align: center;
+    margin-top: -10px;
+    font-family: "Playfair Display";
+}
+
+.subscribeTitle{
+    font-size: 30px;
+    font-weight: 400;
+    color: #333333;
+    padding-top: 63px;
+    margin-bottom: 70px;
+}
+
+.formSubscribe{
+    margin: 50px auto;
+    border-bottom: 2px solid black;
+    width: 375px;
+}
+
+.inputSubscribe{
+    height: 40px;
+    width: 320px;
+    margin-left: -8px;
+    margin-right: 20px;
+    border: 0;
+    background-color: #f0f0f0;
+    outline: none;
+    font-family: "Playfair Display";
+    font-size: 14px;
+    color: #9b9b9b;
+}
+
+.subscribeSend{
+    margin-bottom: -8px;
+    height: 25px;
+    transform: rotate(90deg);
+    color: #9b9b9b;
+}
+
+.subscribeSend:hover{
+    color: #cccccc;
+    cursor: pointer;
+}
+

@@ -1,0 +1,51 @@
+.postArticle{
+    display: flex;
+    flex-direction: column;
+    color: #626262;
+    min-width: 380px;
+}
+
+.blockPostArticleImg{
+    margin: auto 6%;
+}
+
+.postArticleImg{
+    width: 100%;
+}
+
+.blockPostBodyArticle{
+    margin: auto 12.5%;
+    padding-top: 98px;
+    color: #626262;
+}
+
+.linkArticlePhoto{
+    font-family: Ubuntu;
+    font-size: 14px;
+    color: #b4ad9e;
+}
+
+.postTitle{
+    margin-top: 29px;
+    font-family: "Playfair Display";
+    font-size: 30px;
+
+}
+
+.postBodyArticle{
+    margin-top: 25px;
+    font-family: "Playfair Display";
+    font-size: 14px;
+}
+
+.postBodyArticle>img{
+    width: 100%;
+    margin-top: 28px;
+    margin-bottom: 28px;
+}
+
+.postBodyArticle>p{
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}

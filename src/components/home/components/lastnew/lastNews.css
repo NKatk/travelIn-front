@@ -1,0 +1,41 @@
+.lastNew{
+    display: flex;
+    flex-direction: column;
+    color: #626262;
+    min-width: 380px;
+}
+.imgBlockLN{
+    margin: auto 6% ;
+}
+
+.imgLastNew{
+    width: 100%;
+}
+
+.descriptionLN{
+    margin-top: 98px;
+    margin-left: 12.5%;
+    margin-right: 12.5%;
+}
+
+.titleLastNew{
+    font-family: 'Playfair Display';
+    font-size: 30px;
+    font-weight: 400;
+    margin-top: 28px;
+    margin-bottom: 35px;
+}
+
+.bodyLastNew{
+    font-family: 'Playfair Display';
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 50px;
+}
+
+.linkLN{
+    font-family: Ubuntu;
+    font-size: 14px;
+    font-weight: 400;
+    color: #b4ad9e;
+}

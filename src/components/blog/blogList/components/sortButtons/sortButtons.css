@@ -1,0 +1,29 @@
+.sortList{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-bottom: 30px;
+    margin-left: 1%;
+}
+
+.variableSort{
+    margin-left: 15px;
+}
+
+.variableSort:hover{
+    cursor: pointer;
+}
+
+.iconSort{
+    height: 18px;
+    margin-top: 3px;
+    color: #626262;
+    margin-right: -5px;
+}
+
+.iconSortActive{
+    height: 20px;
+    margin-top: 1px;
+    color: #000000;
+    margin-right: -5px;
+}

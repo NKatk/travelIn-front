@@ -1,0 +1,46 @@
+.shareArticle{
+    margin: 35px 12.5% 0 12.5%;
+    color: #b4ad9e;
+    display: flex;
+    justify-content: space-between;
+}
+
+.staticBlock{
+    display: flex;
+    flex-direction: row;
+}
+
+.staticData{
+    display: flex;
+    flex-direction: row;
+    margin-right: 18px;
+}
+
+.staticBlockIcon{
+    height: 18px;
+}
+
+.staticBlockText{
+    font-family: "Playfair Display";
+    font-size: 17px;
+    margin-left: 5px;
+    margin-top: -5px;
+}
+
+.shareArticleBlock{
+    display: flex;
+    flex-direction: row;
+}
+
+.shareArticleText{
+    font-family: Ubuntu;
+    font-size: 13px;
+    margin-right: 5px;
+    padding-top: 1px;
+
+}
+
+.shareArticleIcon{
+    height: 18px;
+    margin-left: 10px;
+}
