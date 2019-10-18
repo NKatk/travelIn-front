@@ -15,8 +15,7 @@
     "slick-carousel": "^1.8.1",
     "typeface-inconsolata": "0.0.72",
     "typeface-playfair-display": "0.0.72",
-    "typeface-ubuntu": "0.0.65",
-    "eslint-utils": ">=1.4.1"
+    "typeface-ubuntu": "0.0.65"
   },
   "scripts": {
     "start": "react-scripts start",
